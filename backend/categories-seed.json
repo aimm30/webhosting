@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Accessories",
+    "count": 12
+  },
+  {
+    "category": "Beauty",
+    "count": 12
+  },
+  {
+    "category": "Books & Stationery",
+    "count": 12
+  },
+  {
+    "category": "Clothing",
+    "count": 14
+  },
+  {
+    "category": "Electronics",
+    "count": 14
+  },
+  {
+    "category": "Footwear",
+    "count": 12
+  },
+  {
+    "category": "Groceries & Essentials",
+    "count": 14
+  },
+  {
+    "category": "Home & Living",
+    "count": 12
+  },
+  {
+    "category": "Kitchen",
+    "count": 13
+  },
+  {
+    "category": "Mobile & Computer Accessories",
+    "count": 12
+  },
+  {
+    "category": "Sports & Fitness",
+    "count": 12
+  },
+  {
+    "category": "Toys & Baby",
+    "count": 12
+  }
+]
